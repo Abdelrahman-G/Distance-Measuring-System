@@ -1,10 +1,14 @@
-/*
- * icu.h
+ /******************************************************************************
  *
- *  Created on: Oct 8, 2023
- *      Author: abdel
- */
-
+ * Module: ICU
+ *
+ * File Name: icu.h
+ *
+ * Description: Header file for the ICU driver
+ *
+ * Author: Abdelrahman gomaa
+ *
+ *******************************************************************************/
 #ifndef ICU_H_
 #define ICU_H_
 #include "std_types.h"

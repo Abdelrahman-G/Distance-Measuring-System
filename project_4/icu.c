@@ -1,9 +1,14 @@
-/*
- * icu.c
+ /******************************************************************************
  *
- *  Created on: Oct 8, 2023
- *      Author: abdel
- */
+ * Module: ICU
+ *
+ * File Name: ICU.c
+ *
+ * Description: Source file for the ICU driver
+ *
+ * Author: Abdelrahman gomaa
+ *
+ *******************************************************************************/
 #include "icu.h"
 #include <avr/io.h>
 #include <avr/interrupt.h>

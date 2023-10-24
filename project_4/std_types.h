@@ -1,11 +1,12 @@
-/*
- * std_types.h
+ /******************************************************************************
  *
- *  Created on: Sep 24, 2023
- *      Author: Abdelrahman Gomaa
+ * File Name: std_types.h
  *
- *  Description: types of variables for sAVR
- */
+ * Description: Header file for the standard data types used in the project
+ *
+ * Author: Abdelrahman gomaa
+ *
+ *******************************************************************************/
 
 #ifndef STD_TYPES_H_
 #define STD_TYPES_H_

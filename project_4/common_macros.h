@@ -1,9 +1,12 @@
-/*
- * common_macros.h
+ /******************************************************************************
  *
- *  Created on: Sep 24, 2023
- *      Author: abdel
- */
+ * File Name: common_macros.h
+ *
+ * Description: Source file for the common macros used in the project
+ *
+ * Author: Abdelrahman gomaa
+ *
+ *******************************************************************************/
 
 #ifndef COMMON_MACROS_H_
 #define COMMON_MACROS_H_
